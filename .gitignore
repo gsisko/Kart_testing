@@ -21,6 +21,9 @@ msg/_*.py
 *.dox
 *.wikidoc
 
+# Ignore images
+*.jpg
+
 # eclipse stuff
 .project
 .cproject
