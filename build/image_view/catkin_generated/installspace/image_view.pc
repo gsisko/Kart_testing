@@ -1,0 +1,6 @@
+Name: image_view
+Description: Description of image_view
+Version: 1.10.18
+Cflags: -I
+Libs: -L/home/pi/ros_catkin_ws/install/lib 
+Requires: 
